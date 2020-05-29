@@ -1,0 +1,4 @@
+Contact: mailto:security@beckandstone.com
+Preferred-Languages: en
+Canonical: https://github.com/beckandstone/security/blob/master/security.txt
+Policy: https://github.com/beckandstone/security/blob/master/SECURITY.md
